@@ -8,7 +8,8 @@ A simple coming soon page using HTML, CSS and the [Twitter Bootstrap](https://ww
 
 It is merely a simple, responsive and modern webpage template that counts down to the launch of a project currently under development.
 
-[Demo](http://www.solomonkamanga.github.io/coming-soon-page)
+### Demo
+If you would like to see what the webpage looks like: [Live Demo](http://www.solomonkamanga.github.io/coming-soon-page)
 
 ### Features
 - Modern & elegant design
